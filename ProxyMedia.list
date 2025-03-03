@@ -13,11 +13,6 @@ DOMAIN-SUFFIX,abema.tv
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,hayabusa.io
 
-# All4
-USER-AGENT,All4*
-DOMAIN-SUFFIX,c4assets.com
-DOMAIN-SUFFIX,channel4.com
-
 # AppleNews
 USER-AGENT,AppleNews*
 USER-AGENT,com.apple.news*
